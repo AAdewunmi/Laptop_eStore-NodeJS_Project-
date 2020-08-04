@@ -26,7 +26,7 @@ Enjoy :)
 
 ### App UI (Demo)
 
-![Image description](Forkify_Screenshot.png)
+![Image description](Screenshot_The-Laptop-Store%20.png)
 
 ---
 
