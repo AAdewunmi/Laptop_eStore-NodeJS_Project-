@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repo
 
 ```
-git clone https://github.com/AAdewunmi/forkify.git
+git clone https://github.com/AAdewunmi/Laptop_eStore-NodeJS_Project-.git
 ```
 
 2. Open Project Folder
